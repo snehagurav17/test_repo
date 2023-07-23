@@ -7,7 +7,7 @@ from flask import request
 
 
 app = Flask(__name__)
-
+"""Added comments for testing on dev4"""
 
 @app.route('/', methods=['GET'])
 def home_page():
