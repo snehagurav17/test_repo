@@ -5,7 +5,8 @@ from flask import Flask
 from flask import request
 
 
-
+"""Declare variables-dev3 
+for testing"""
 app = Flask(__name__)
 
 
